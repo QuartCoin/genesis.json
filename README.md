@@ -1,0 +1,2 @@
+# genesis.json
+Bloco Genesis
